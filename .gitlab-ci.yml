@@ -1,0 +1,4 @@
+include:
+  - project: 'internal-apps/presence-app/cicd-config'
+    ref: main
+    file: 'pipeline-be.yml'
